@@ -1,5 +1,3 @@
-// main.js
-
 // Modules to control application life and create native browser window
 import { app, BrowserWindow } from 'electron'
 const VITE_DEV_SERVER_URL = process.env['VITE_DEV_SERVER_URL']
